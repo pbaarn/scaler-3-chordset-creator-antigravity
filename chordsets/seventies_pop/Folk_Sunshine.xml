@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CHORDSET version="2" uuid="70d4e5f6-a7b8-6c9d-0e1f-3a4b5c6d7e8f">
+  <!-- 1. Dadd9 (Open I) -->
+  <CHORD><NOTE MIDI="50"/><NOTE MIDI="54"/><NOTE MIDI="57"/><NOTE MIDI="62"/><NOTE MIDI="64"/></CHORD>
+  <!-- 2. Gmaj7 (Acoustic IV) -->
+  <CHORD><NOTE MIDI="43"/><NOTE MIDI="54"/><NOTE MIDI="55"/><NOTE MIDI="59"/><NOTE MIDI="62"/></CHORD>
+  <!-- 3. Asus4 (V sus) -->
+  <CHORD><NOTE MIDI="45"/><NOTE MIDI="52"/><NOTE MIDI="57"/><NOTE MIDI="62"/></CHORD>
+  <!-- 4. Bm7 (vi) -->
+  <CHORD><NOTE MIDI="47"/><NOTE MIDI="57"/><NOTE MIDI="59"/><NOTE MIDI="62"/><NOTE MIDI="66"/></CHORD>
+  <!-- 5. G/D (IV/I) -->
+  <CHORD><NOTE MIDI="50"/><NOTE MIDI="55"/><NOTE MIDI="59"/><NOTE MIDI="62"/></CHORD>
+  <!-- 6. Em9 (ii) -->
+  <CHORD><NOTE MIDI="40"/><NOTE MIDI="52"/><NOTE MIDI="54"/><NOTE MIDI="55"/><NOTE MIDI="59"/></CHORD>
+  <!-- 7. F#m11 (iii) -->
+  <CHORD><NOTE MIDI="42"/><NOTE MIDI="54"/><NOTE MIDI="57"/><NOTE MIDI="59"/><NOTE MIDI="61"/><NOTE MIDI="64"/></CHORD>
+  <!-- 8. Cadd9 (bVII) -->
+  <CHORD><NOTE MIDI="48"/><NOTE MIDI="52"/><NOTE MIDI="55"/><NOTE MIDI="60"/><NOTE MIDI="62"/></CHORD>
+  <!-- 9. Dsus2 (Floating I) -->
+  <CHORD><NOTE MIDI="50"/><NOTE MIDI="57"/><NOTE MIDI="62"/><NOTE MIDI="64"/></CHORD>
+  <!-- 10. A7sus4 (Dominant prep) -->
+  <CHORD><NOTE MIDI="45"/><NOTE MIDI="55"/><NOTE MIDI="57"/><NOTE MIDI="62"/></CHORD>
+</CHORDSET>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CHORDSET version="2" uuid="c3d4e5f6-a7b8-6c7d-8e9f-0a1b2c3d4e5f">
+  <!-- 1. Emaj9 (Morning Sun) -->
+  <CHORD><NOTE MIDI="40"/><NOTE MIDI="52"/><NOTE MIDI="56"/><NOTE MIDI="59"/><NOTE MIDI="63"/><NOTE MIDI="64"/><NOTE MIDI="66"/><NOTE MIDI="71"/></CHORD>
+  <!-- 2. Amaj13 (Growth) -->
+  <CHORD><NOTE MIDI="45"/><NOTE MIDI="57"/><NOTE MIDI="61"/><NOTE MIDI="64"/><NOTE MIDI="66"/><NOTE MIDI="68"/><NOTE MIDI="73"/></CHORD>
+  <!-- 3. G#m11 (Forest) -->
+  <CHORD><NOTE MIDI="44"/><NOTE MIDI="56"/><NOTE MIDI="59"/><NOTE MIDI="63"/><NOTE MIDI="64"/><NOTE MIDI="66"/><NOTE MIDI="68"/></CHORD>
+  <!-- 4. F#sus2/A# (Ascending Light) -->
+  <CHORD><NOTE MIDI="46"/><NOTE MIDI="54"/><NOTE MIDI="56"/><NOTE MIDI="58"/><NOTE MIDI="61"/><NOTE MIDI="63"/></CHORD>
+  <!-- 5. Bmaj7(add13) (Triumph) -->
+  <CHORD><NOTE MIDI="47"/><NOTE MIDI="54"/><NOTE MIDI="58"/><NOTE MIDI="59"/><NOTE MIDI="63"/><NOTE MIDI="68"/><NOTE MIDI="70"/></CHORD>
+  <!-- 6. C#m11 (Warmth) -->
+  <CHORD><NOTE MIDI="49"/><NOTE MIDI="56"/><NOTE MIDI="61"/><NOTE MIDI="63"/><NOTE MIDI="64"/><NOTE MIDI="68"/></CHORD>
+  <!-- 7. G#maj7 (The Peak) -->
+  <CHORD><NOTE MIDI="44"/><NOTE MIDI="55"/><NOTE MIDI="56"/><NOTE MIDI="60"/><NOTE MIDI="63"/><NOTE MIDI="67"/><NOTE MIDI="68"/></CHORD>
+  <!-- 8. F#maj9 (Passing color) -->
+  <CHORD><NOTE MIDI="42"/><NOTE MIDI="53"/><NOTE MIDI="54"/><NOTE MIDI="58"/><NOTE MIDI="61"/><NOTE MIDI="65"/><NOTE MIDI="66"/></CHORD>
+  <!-- 9. D#m9 (Sunset) -->
+  <CHORD><NOTE MIDI="39"/><NOTE MIDI="51"/><NOTE MIDI="54"/><NOTE MIDI="58"/><NOTE MIDI="61"/><NOTE MIDI="65"/></CHORD>
+  <!-- 10. Emaj7/B (Stable Peace) -->
+  <CHORD><NOTE MIDI="47"/><NOTE MIDI="52"/><NOTE MIDI="56"/><NOTE MIDI="59"/><NOTE MIDI="63"/><NOTE MIDI="64"/></CHORD>
+</CHORDSET>

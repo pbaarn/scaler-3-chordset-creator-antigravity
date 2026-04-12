@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CHORDSET version="2" uuid="a3c9b1e4-5f2d-48a1-b7c4-0b86eba35935">
+  <!-- 1. Ebm11 (i) - Tight cluster: F, Gb, Ab, Bb -->
+  <CHORD>
+    <NOTE MIDI="51"/>
+    <NOTE MIDI="53"/>
+    <NOTE MIDI="54"/>
+    <NOTE MIDI="56"/>
+    <NOTE MIDI="58"/>
+    <NOTE MIDI="61"/>
+  </CHORD>
+  <!-- 2. Ab13sus4 (IV dominant) - Cluster: Gb, Ab, Bb, Db -->
+  <CHORD>
+    <NOTE MIDI="44"/>
+    <NOTE MIDI="54"/>
+    <NOTE MIDI="56"/>
+    <NOTE MIDI="58"/>
+    <NOTE MIDI="61"/>
+    <NOTE MIDI="65"/>
+  </CHORD>
+  <!-- 3. Dbmaj9#11 (Lydian feel) - Cluster: F, G, Ab, C -->
+  <CHORD>
+    <NOTE MIDI="49"/>
+    <NOTE MIDI="53"/>
+    <NOTE MIDI="55"/>
+    <NOTE MIDI="56"/>
+    <NOTE MIDI="60"/>
+    <NOTE MIDI="65"/>
+  </CHORD>
+  <!-- 4. Gbmaj13 (I) - Cluster: F, Gb, Bb, C -->
+  <CHORD>
+    <NOTE MIDI="42"/>
+    <NOTE MIDI="53"/>
+    <NOTE MIDI="54"/>
+    <NOTE MIDI="58"/>
+    <NOTE MIDI="60"/>
+    <NOTE MIDI="65"/>
+  </CHORD>
+  <!-- 5. Bmaj7#11 (Sub-dominant tension) - Cluster: Bb, B, Eb, F -->
+  <CHORD>
+    <NOTE MIDI="47"/>
+    <NOTE MIDI="58"/>
+    <NOTE MIDI="59"/>
+    <NOTE MIDI="63"/>
+    <NOTE MIDI="65"/>
+    <NOTE MIDI="70"/>
+  </CHORD>
+  <!-- 6. Bb7alt (V7 altered) - Cluster: D, Eb, Ab, B -->
+  <CHORD>
+    <NOTE MIDI="46"/>
+    <NOTE MIDI="50"/>
+    <NOTE MIDI="51"/>
+    <NOTE MIDI="56"/>
+    <NOTE MIDI="59"/>
+    <NOTE MIDI="62"/>
+  </CHORD>
+  <!-- 7. Fm11 (ii of VI) - Cluster: Ab, Bb, C, Eb -->
+  <CHORD>
+    <NOTE MIDI="53"/>
+    <NOTE MIDI="56"/>
+    <NOTE MIDI="58"/>
+    <NOTE MIDI="60"/>
+    <NOTE MIDI="63"/>
+    <NOTE MIDI="68"/>
+  </CHORD>
+  <!-- 8. Emaj9 (Chromatic slide / bII) - Cluster: G#, A#, B, D# -->
+  <CHORD>
+    <NOTE MIDI="52"/>
+    <NOTE MIDI="56"/>
+    <NOTE MIDI="58"/>
+    <NOTE MIDI="59"/>
+    <NOTE MIDI="63"/>
+    <NOTE MIDI="66"/>
+  </CHORD>
+  <!-- 9. Gb6/9 (Stable root) - Cluster: Bb, C, Eb, F -->
+  <CHORD>
+    <NOTE MIDI="42"/>
+    <NOTE MIDI="58"/>
+    <NOTE MIDI="60"/>
+    <NOTE MIDI="63"/>
+    <NOTE MIDI="65"/>
+    <NOTE MIDI="70"/>
+  </CHORD>
+  <!-- 10. Dbm9 (Passing chord) - Cluster: E, F, Ab, B -->
+  <CHORD>
+    <NOTE MIDI="49"/>
+    <NOTE MIDI="52"/>
+    <NOTE MIDI="53"/>
+    <NOTE MIDI="56"/>
+    <NOTE MIDI="59"/>
+    <NOTE MIDI="64"/>
+  </CHORD>
+</CHORDSET>

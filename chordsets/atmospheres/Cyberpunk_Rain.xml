@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CHORDSET version="2" uuid="b2c3d4e5-f6a7-5b6c-7d8e-9f0a1b2c3d4e">
+  <!-- 1. Bm11 (Neon Pulse) -->
+  <CHORD><NOTE MIDI="47"/><NOTE MIDI="54"/><NOTE MIDI="57"/><NOTE MIDI="61"/><NOTE MIDI="62"/><NOTE MIDI="66"/></CHORD>
+  <!-- 2. Gmaj13 (Electric Sky) -->
+  <CHORD><NOTE MIDI="43"/><NOTE MIDI="54"/><NOTE MIDI="55"/><NOTE MIDI="59"/><NOTE MIDI="62"/><NOTE MIDI="64"/><NOTE MIDI="67"/></CHORD>
+  <!-- 3. Asus4(add9) (Digital Drift) -->
+  <CHORD><NOTE MIDI="45"/><NOTE MIDI="52"/><NOTE MIDI="57"/><NOTE MIDI="59"/><NOTE MIDI="62"/><NOTE MIDI="69"/></CHORD>
+  <!-- 4. C#m7b5 (Gutter Tension) -->
+  <CHORD><NOTE MIDI="49"/><NOTE MIDI="52"/><NOTE MIDI="55"/><NOTE MIDI="57"/><NOTE MIDI="61"/></CHORD>
+  <!-- 5. Dmaj9#11 (High Altitude) -->
+  <CHORD><NOTE MIDI="50"/><NOTE MIDI="54"/><NOTE MIDI="57"/><NOTE MIDI="61"/><NOTE MIDI="62"/><NOTE MIDI="66"/><NOTE MIDI="70"/></CHORD>
+  <!-- 6. E7sus4b9 (Glitchy) -->
+  <CHORD><NOTE MIDI="40"/><NOTE MIDI="52"/><NOTE MIDI="53"/><NOTE MIDI="57"/><NOTE MIDI="59"/><NOTE MIDI="62"/></CHORD>
+  <!-- 7. F#m11 (Rain) -->
+  <CHORD><NOTE MIDI="42"/><NOTE MIDI="52"/><NOTE MIDI="54"/><NOTE MIDI="57"/><NOTE MIDI="59"/><NOTE MIDI="61"/><NOTE MIDI="64"/></CHORD>
+  <!-- 8. G#7alt (Deep Glitch) -->
+  <CHORD><NOTE MIDI="44"/><NOTE MIDI="54"/><NOTE MIDI="56"/><NOTE MIDI="60"/><NOTE MIDI="62"/><NOTE MIDI="67"/></CHORD>
+  <!-- 9. Amaj7#11 (The Signal) -->
+  <CHORD><NOTE MIDI="45"/><NOTE MIDI="56"/><NOTE MIDI="57"/><NOTE MIDI="61"/><NOTE MIDI="63"/><NOTE MIDI="64"/></CHORD>
+  <!-- 10. Bm9 (Final Log) -->
+  <CHORD><NOTE MIDI="47"/><NOTE MIDI="54"/><NOTE MIDI="57"/><NOTE MIDI="61"/><NOTE MIDI="62"/><NOTE MIDI="66"/></CHORD>
+</CHORDSET>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CHORDSET version="2" uuid="d6e5c8a2-2b6d-491c-9a4f-0b86eba35935">
+  <!-- 1. Dm9 (ii) -->
+  <CHORD>
+    <NOTE MIDI="50"/>
+    <NOTE MIDI="53"/>
+    <NOTE MIDI="57"/>
+    <NOTE MIDI="60"/>
+    <NOTE MIDI="64"/>
+  </CHORD>
+  <!-- 2. G13 (V) -->
+  <CHORD>
+    <NOTE MIDI="43"/>
+    <NOTE MIDI="53"/>
+    <NOTE MIDI="59"/>
+    <NOTE MIDI="64"/>
+  </CHORD>
+  <!-- 3. Cmaj9 (I) -->
+  <CHORD>
+    <NOTE MIDI="48"/>
+    <NOTE MIDI="52"/>
+    <NOTE MIDI="55"/>
+    <NOTE MIDI="59"/>
+    <NOTE MIDI="62"/>
+  </CHORD>
+  <!-- 4. Fmaj9 (IV) -->
+  <CHORD>
+    <NOTE MIDI="53"/>
+    <NOTE MIDI="57"/>
+    <NOTE MIDI="60"/>
+    <NOTE MIDI="64"/>
+    <NOTE MIDI="67"/>
+  </CHORD>
+  <!-- 5. Bm7b5 (viiø / ii of vi) -->
+  <CHORD>
+    <NOTE MIDI="47"/>
+    <NOTE MIDI="50"/>
+    <NOTE MIDI="53"/>
+    <NOTE MIDI="57"/>
+  </CHORD>
+  <!-- 6. E7b9 (V of vi) -->
+  <CHORD>
+    <NOTE MIDI="52"/>
+    <NOTE MIDI="56"/>
+    <NOTE MIDI="62"/>
+    <NOTE MIDI="65"/>
+  </CHORD>
+  <!-- 7. Am11 (vi) -->
+  <CHORD>
+    <NOTE MIDI="45"/>
+    <NOTE MIDI="55"/>
+    <NOTE MIDI="60"/>
+    <NOTE MIDI="62"/>
+    <NOTE MIDI="64"/>
+  </CHORD>
+  <!-- 8. Db9 (Tritone sub for G7) -->
+  <CHORD>
+    <NOTE MIDI="49"/>
+    <NOTE MIDI="53"/>
+    <NOTE MIDI="56"/>
+    <NOTE MIDI="59"/>
+    <NOTE MIDI="63"/>
+  </CHORD>
+  <!-- 9. C6/9 (I - Resolution variant) -->
+  <CHORD>
+    <NOTE MIDI="48"/>
+    <NOTE MIDI="52"/>
+    <NOTE MIDI="57"/>
+    <NOTE MIDI="62"/>
+    <NOTE MIDI="67"/>
+  </CHORD>
+  <!-- 10. A7b13 (Turnaround chord to ii) -->
+  <CHORD>
+    <NOTE MIDI="45"/>
+    <NOTE MIDI="55"/>
+    <NOTE MIDI="61"/>
+    <NOTE MIDI="65"/>
+  </CHORD>
+  <!-- 11. Dm11 (ii - Variant) -->
+  <CHORD>
+    <NOTE MIDI="50"/>
+    <NOTE MIDI="57"/>
+    <NOTE MIDI="60"/>
+    <NOTE MIDI="64"/>
+    <NOTE MIDI="67"/>
+  </CHORD>
+  <!-- 12. G7alt (V - Variant / G7#9#5) -->
+  <CHORD>
+    <NOTE MIDI="43"/>
+    <NOTE MIDI="53"/>
+    <NOTE MIDI="59"/>
+    <NOTE MIDI="63"/>
+    <NOTE MIDI="70"/>
+  </CHORD>
+</CHORDSET>

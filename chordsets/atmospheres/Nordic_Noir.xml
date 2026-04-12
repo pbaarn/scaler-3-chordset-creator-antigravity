@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CHORDSET version="2" uuid="a1b2c3d4-e5f6-4a5b-6c7d-8e9f0a1b2c3d">
+  <!-- 1. Am9 (Pensive Piano) -->
+  <CHORD><NOTE MIDI="33"/><NOTE MIDI="45"/><NOTE MIDI="52"/><NOTE MIDI="55"/><NOTE MIDI="59"/></CHORD>
+  <!-- 2. Fmaj7#11/A (Ice) -->
+  <CHORD><NOTE MIDI="33"/><NOTE MIDI="45"/><NOTE MIDI="53"/><NOTE MIDI="57"/><NOTE MIDI="60"/><NOTE MIDI="65"/></CHORD>
+  <!-- 3. Gsus2/B (Fragile) -->
+  <CHORD><NOTE MIDI="35"/><NOTE MIDI="47"/><NOTE MIDI="55"/><NOTE MIDI="57"/><NOTE MIDI="62"/></CHORD>
+  <!-- 4. Em11/G (Deep Water) -->
+  <CHORD><NOTE MIDI="31"/><NOTE MIDI="43"/><NOTE MIDI="50"/><NOTE MIDI="53"/><NOTE MIDI="55"/><NOTE MIDI="62"/></CHORD>
+  <!-- 5. Fadd9 (Static) -->
+  <CHORD><NOTE MIDI="41"/><NOTE MIDI="53"/><NOTE MIDI="57"/><NOTE MIDI="60"/><NOTE MIDI="67"/></CHORD>
+  <!-- 6. Bbmaj7#11/A (Dark Phrygian) -->
+  <CHORD><NOTE MIDI="33"/><NOTE MIDI="46"/><NOTE MIDI="50"/><NOTE MIDI="53"/><NOTE MIDI="57"/><NOTE MIDI="64"/></CHORD>
+  <!-- 7. Dm9/A (Transition) -->
+  <CHORD><NOTE MIDI="33"/><NOTE MIDI="45"/><NOTE MIDI="50"/><NOTE MIDI="53"/><NOTE MIDI="57"/><NOTE MIDI="60"/><NOTE MIDI="64"/></CHORD>
+  <!-- 8. Esus4(b9) (Cold tension) -->
+  <CHORD><NOTE MIDI="40"/><NOTE MIDI="52"/><NOTE MIDI="53"/><NOTE MIDI="57"/><NOTE MIDI="59"/><NOTE MIDI="62"/></CHORD>
+  <!-- 9. C/E (Brief Hope) -->
+  <CHORD><NOTE MIDI="40"/><NOTE MIDI="52"/><NOTE MIDI="55"/><NOTE MIDI="60"/><NOTE MIDI="64"/></CHORD>
+  <!-- 10. Am11 (The end) -->
+  <CHORD><NOTE MIDI="45"/><NOTE MIDI="52"/><NOTE MIDI="55"/><NOTE MIDI="59"/><NOTE MIDI="60"/><NOTE MIDI="62"/></CHORD>
+</CHORDSET>

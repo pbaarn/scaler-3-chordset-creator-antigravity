@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CHORDSET version="2" uuid="70b2c3d4-e5f6-4a7b-8c9d-1e2f3a4b5c6d">
+  <!-- 1. D Major (I) -->
+  <CHORD><NOTE MIDI="50"/><NOTE MIDI="54"/><NOTE MIDI="57"/><NOTE MIDI="62"/></CHORD>
+  <!-- 2. Bm (vi) -->
+  <CHORD><NOTE MIDI="47"/><NOTE MIDI="54"/><NOTE MIDI="59"/><NOTE MIDI="62"/></CHORD>
+  <!-- 3. G Major (IV) -->
+  <CHORD><NOTE MIDI="43"/><NOTE MIDI="55"/><NOTE MIDI="59"/><NOTE MIDI="67"/></CHORD>
+  <!-- 4. A Major (V) -->
+  <CHORD><NOTE MIDI="45"/><NOTE MIDI="57"/><NOTE MIDI="61"/><NOTE MIDI="69"/></CHORD>
+  <!-- 5. Em7 (ii) -->
+  <CHORD><NOTE MIDI="52"/><NOTE MIDI="55"/><NOTE MIDI="59"/><NOTE MIDI="62"/></CHORD>
+  <!-- 6. A7 (V7) -->
+  <CHORD><NOTE MIDI="45"/><NOTE MIDI="55"/><NOTE MIDI="57"/><NOTE MIDI="61"/></CHORD>
+  <!-- 7. C Major (bVII) -->
+  <CHORD><NOTE MIDI="48"/><NOTE MIDI="52"/><NOTE MIDI="55"/><NOTE MIDI="60"/></CHORD>
+  <!-- 8. F#m (iii) -->
+  <CHORD><NOTE MIDI="42"/><NOTE MIDI="54"/><NOTE MIDI="57"/><NOTE MIDI="61"/></CHORD>
+  <!-- 9. D7 (Passing to G) -->
+  <CHORD><NOTE MIDI="50"/><NOTE MIDI="54"/><NOTE MIDI="57"/><NOTE MIDI="60"/></CHORD>
+  <!-- 10. Gmaj7 (Lush IV) -->
+  <CHORD><NOTE MIDI="43"/><NOTE MIDI="54"/><NOTE MIDI="55"/><NOTE MIDI="59"/></CHORD>
+</CHORDSET>

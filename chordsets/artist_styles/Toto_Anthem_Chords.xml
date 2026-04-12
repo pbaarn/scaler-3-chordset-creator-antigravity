@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CHORDSET version="2" uuid="b8e2d9c4-0f4a-4d3c-9a4f-0286eba35935">
+  <!-- 1. Amaj9 -->
+  <CHORD>
+    <NOTE MIDI="45"/>
+    <NOTE MIDI="56"/>
+    <NOTE MIDI="57"/>
+    <NOTE MIDI="61"/>
+    <NOTE MIDI="64"/>
+    <NOTE MIDI="68"/>
+    <NOTE MIDI="73"/>
+  </CHORD>
+  <!-- 2. Dadd9/A -->
+  <CHORD>
+    <NOTE MIDI="45"/>
+    <NOTE MIDI="54"/>
+    <NOTE MIDI="57"/>
+    <NOTE MIDI="62"/>
+    <NOTE MIDI="64"/>
+    <NOTE MIDI="66"/>
+  </CHORD>
+  <!-- 3. E/A -->
+  <CHORD>
+    <NOTE MIDI="45"/>
+    <NOTE MIDI="52"/>
+    <NOTE MIDI="56"/>
+    <NOTE MIDI="59"/>
+    <NOTE MIDI="64"/>
+    <NOTE MIDI="71"/>
+  </CHORD>
+  <!-- 4. F#m7 -->
+  <CHORD>
+    <NOTE MIDI="42"/>
+    <NOTE MIDI="54"/>
+    <NOTE MIDI="57"/>
+    <NOTE MIDI="61"/>
+    <NOTE MIDI="64"/>
+  </CHORD>
+  <!-- 5. Bm11 -->
+  <CHORD>
+    <NOTE MIDI="47"/>
+    <NOTE MIDI="57"/>
+    <NOTE MIDI="59"/>
+    <NOTE MIDI="62"/>
+    <NOTE MIDI="64"/>
+    <NOTE MIDI="66"/>
+  </CHORD>
+  <!-- 6. C#m7 -->
+  <CHORD>
+    <NOTE MIDI="49"/>
+    <NOTE MIDI="56"/>
+    <NOTE MIDI="61"/>
+    <NOTE MIDI="64"/>
+    <NOTE MIDI="68"/>
+  </CHORD>
+  <!-- 7. G/A -->
+  <CHORD>
+    <NOTE MIDI="45"/>
+    <NOTE MIDI="55"/>
+    <NOTE MIDI="59"/>
+    <NOTE MIDI="62"/>
+    <NOTE MIDI="67"/>
+    <NOTE MIDI="71"/>
+  </CHORD>
+  <!-- 8. Esus4 -->
+  <CHORD>
+    <NOTE MIDI="40"/>
+    <NOTE MIDI="52"/>
+    <NOTE MIDI="57"/>
+    <NOTE MIDI="59"/>
+    <NOTE MIDI="64"/>
+    <NOTE MIDI="69"/>
+  </CHORD>
+  <!-- 9. F#sus4 -->
+  <CHORD>
+    <NOTE MIDI="42"/>
+    <NOTE MIDI="54"/>
+    <NOTE MIDI="59"/>
+    <NOTE MIDI="61"/>
+    <NOTE MIDI="66"/>
+  </CHORD>
+  <!-- 10. D/E -->
+  <CHORD>
+    <NOTE MIDI="40"/>
+    <NOTE MIDI="50"/>
+    <NOTE MIDI="54"/>
+    <NOTE MIDI="57"/>
+    <NOTE MIDI="62"/>
+  </CHORD>
+</CHORDSET>
