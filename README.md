@@ -1,45 +1,51 @@
-# Scaler 3 Chordset Creator (by Antigravity)
+# Dr. Harmony: Scaler 3 Chordset Creator for Antigravity
 
-A curated collection of professional XML chordsets for **Scaler 3**, designed for various genres, atmospheres, and iconic artist styles. These chordsets focus on high-quality voicings, rich extensions (9ths, 11ths, 13ths), and smooth voice-leading to inspire your music production.
+This repository contains the configuration and instructions for using **Antigravity** (Google DeepMind's agentic AI) as a professional music theory specialist and Scaler 3 chordset generator.
 
-## 🎹 Available Chordsets
+## 🎯 What is this?
+
+This project provides a **System Instruction (Rule)** that transforms Antigravity into "Dr. Harmony"—an expert capable of interpreting complex musical moods, genres, and artist styles into valid Scaler 3 XML chordsets. 
+
+The included XML files in `/chordsets` are examples of what Dr. Harmony can generate in seconds.
+
+## 🛠 Setup in Antigravity
+
+To use Dr. Harmony in your own workspace:
+
+1.  **Clone this repo** into your workspace.
+2.  **Add the Rule:** Ensure the file `chordset-specialist.md` is in your workspace root or mentioned in your `.gemini/rules` configuration.
+3.  **Activate:** Simply start a chat with Antigravity and ask for a chordset. The agent will automatically reference the `chordset-specialist.md` rule.
+
+## ⌨️ Sample Prompts
+
+You can get as specific or as atmospheric as you want. Here are some successful examples:
 
 ### Artist Styles
-*   **Steely Dan Mu Chords:** Features the famous "Mu Major" and sophisticated slash chords.
-*   **Toto Anthem Chords:** Wide, powerful voicings and anthemic suspensions.
-*   **Jazz Lush Progressions:** Essential ii-V-I building blocks with rich extensions.
-*   **RnB Clustered Vibez:** Tight Neo-Soul clusters and gospel-inspired turnarounds.
+> "Generate a bank of chords that Steely Dan would use, focusing on the Mu Major voicing."
 
-### Atmospheres
-*   **Nordic Noir:** Cold, pensive, and cinematic.
-*   **Cyberpunk Rain:** Neon, synthetic, and futuristic.
-*   **Elysium Garden:** Warm, organic, and heavenly.
-*   **Interstellar Solitude:** Vasty, shifting, and weightless.
+> "Create a bank of chords for a Toto-style arena rock anthem, wide voicings with plenty of sus4 movements."
 
-### 70s Pop Collection
-*   **AM Gold Ballad:** Heartfelt piano-driven harmony.
-*   **Disco Pop:** High-energy and shimmering.
-*   **Yacht Rock:** Smooth and sophisticated mid-tempo rock.
-*   **Folk Sunshine:** Organic, open-string acoustic vibes.
+### Genre & Mood
+> "Create a bank with heavy clustered chords for modern RnB / Neo-Soul."
 
-## 🚀 How to Use
+> "Generate 4 different banks with 10-12 chords each for different atmospheres (e.g. Nordic Noir, Cyberpunk, Elysium Garden). Surprise me."
 
-1.  **Download:** Clone this repository or download the specific `.xml` file you want.
-2.  **Open Scaler 3:** Launch Scaler 3 in your DAW.
-3.  **Import:** 
-    *   Go to the **CHORD** or **EDIT** page.
-    *   Click on the **Open/Import** icon (usually a folder or a burger menu).
-    *   Select the `.xml` file from this project.
-4.  **Explore:** Trigger the chords and use the suggested progressions for inspiration.
+### Theory-Based
+> "Create a jazz bank in Eb Minor focusing on minor 9ths and 11ths for smooth voice leading."
 
-## 🛠 Project Structure
-```text
-chordsets/
-├── artist_styles/      # Specific harmonic signatures
-├── atmospheres/        # Mood-based palettes
-├── seventies_pop/      # Era-specific simple harmony
-└── ...                 # General genre sets
-```
+## 🎹 Importing Outputs
+
+When Antigravity generates an XML block:
+1.  Ask it to **"save the xml to a local file"**.
+2.  Open **Scaler 3**.
+3.  Go to the **Open/Import** menu and select the generated `.xml` file.
+4.  Scaler 3 will automatically detect the chord names and voicings.
+
+## 📂 Example Outputs
+Check the `/chordsets` directory to see high-quality examples of what this tool produces:
+*   `artist_styles/` - Steely Dan, Toto, Jazz, etc.
+*   `atmospheres/` - Nordic Noir, Cyberpunk, etc.
+*   `seventies_pop/` - Traditional song-writer harmony.
 
 ---
-*Created with 🎵 by Antigravity*
+*Powered by Antigravity Music Theory Engine*
