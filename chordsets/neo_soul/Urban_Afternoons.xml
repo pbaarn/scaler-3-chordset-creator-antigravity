@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CHORDSET version="2" uuid="d4e5f6g7-a7b8-9012-cdef-456789012334">
+  <CHORD><!-- Dm11: D2, C3, F3, A3, G4 -->
+    <NOTE MIDI="38"/><NOTE MIDI="48"/><NOTE MIDI="53"/><NOTE MIDI="57"/><NOTE MIDI="67"/>
+  </CHORD>
+  <CHORD><!-- Gm9: G2, F3, Bb3, D4, A4 -->
+    <NOTE MIDI="43"/><NOTE MIDI="53"/><NOTE MIDI="58"/><NOTE MIDI="62"/><NOTE MIDI="69"/>
+  </CHORD>
+  <CHORD><!-- C13sus4: C2, Bb2, F3, A3, D4 -->
+    <NOTE MIDI="36"/><NOTE MIDI="46"/><NOTE MIDI="53"/><NOTE MIDI="57"/><NOTE MIDI="62"/>
+  </CHORD>
+  <CHORD><!-- Am9: A2, G3, C4, E4, B4 -->
+    <NOTE MIDI="45"/><NOTE MIDI="55"/><NOTE MIDI="60"/><NOTE MIDI="64"/><NOTE MIDI="71"/>
+  </CHORD>
+  <CHORD><!-- D7alt: D2, C3, F#3, Bb3, Eb4 -->
+    <NOTE MIDI="38"/><NOTE MIDI="48"/><NOTE MIDI="54"/><NOTE MIDI="58"/><NOTE MIDI="63"/>
+  </CHORD>
+  <CHORD><!-- Bbmaj9: Bb2, A3, D4, F4, C5 -->
+    <NOTE MIDI="46"/><NOTE MIDI="57"/><NOTE MIDI="62"/><NOTE MIDI="65"/><NOTE MIDI="72"/>
+  </CHORD>
+  <CHORD><!-- Ebmaj13: Eb2, D3, G3, C4, F4 -->
+    <NOTE MIDI="39"/><NOTE MIDI="50"/><NOTE MIDI="55"/><NOTE MIDI="60"/><NOTE MIDI="65"/>
+  </CHORD>
+  <CHORD><!-- Gm11: G2, F3, Bb3, C4, D5 -->
+    <NOTE MIDI="43"/><NOTE MIDI="53"/><NOTE MIDI="58"/><NOTE MIDI="60"/><NOTE MIDI="74"/>
+  </CHORD>
+</CHORDSET>
