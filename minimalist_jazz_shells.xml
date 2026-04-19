@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CHORDSET version="2" uuid="e3b2c1a0-d5f4-4b3a-9e2d-1c8b7a6f5e4d">
+  <CHORD>
+    <NOTE MIDI="48"/>
+    <NOTE MIDI="64"/>
+    <NOTE MIDI="71"/>
+  </CHORD>
+  <CHORD>
+    <NOTE MIDI="50"/>
+    <NOTE MIDI="65"/>
+    <NOTE MIDI="72"/>
+  </CHORD>
+  <CHORD>
+    <NOTE MIDI="55"/>
+    <NOTE MIDI="71"/>
+    <NOTE MIDI="77"/>
+  </CHORD>
+  <CHORD>
+    <NOTE MIDI="48"/>
+    <NOTE MIDI="59"/>
+    <NOTE MIDI="64"/>
+  </CHORD>
+  <CHORD>
+    <NOTE MIDI="45"/>
+    <NOTE MIDI="61"/>
+    <NOTE MIDI="67"/>
+  </CHORD>
+  <CHORD>
+    <NOTE MIDI="65"/>
+    <NOTE MIDI="72"/>
+    <NOTE MIDI="76"/>
+  </CHORD>
+  <CHORD>
+    <NOTE MIDI="65"/>
+    <NOTE MIDI="71"/>
+    <NOTE MIDI="76"/>
+  </CHORD>
+  <CHORD>
+    <NOTE MIDI="41"/>
+    <NOTE MIDI="57"/>
+    <NOTE MIDI="64"/>
+  </CHORD>
+  <CHORD>
+    <NOTE MIDI="46"/>
+    <NOTE MIDI="62"/>
+    <NOTE MIDI="68"/>
+  </CHORD>
+  <CHORD>
+    <NOTE MIDI="51"/>
+    <NOTE MIDI="67"/>
+    <NOTE MIDI="74"/>
+  </CHORD>
+  <CHORD>
+    <NOTE MIDI="49"/>
+    <NOTE MIDI="65"/>
+    <NOTE MIDI="71"/>
+  </CHORD>
+  <CHORD>
+    <NOTE MIDI="64"/>
+    <NOTE MIDI="69"/>
+    <NOTE MIDI="74"/>
+  </CHORD>
+</CHORDSET>
